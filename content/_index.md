@@ -1,9 +1,10 @@
 +++
 title = ""
 description = ""
+alwaysopen = true
 +++
 
-# Welcome
+# London Baptist Confession of Faith of 1689
 
 Here you will find the confession of faith shared by many Baptists around the world. I hope it is a help to you.
 
